@@ -1,0 +1,38 @@
+.header{
+    height: 650px;
+    background-image: url('../image/food.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-weight: 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(199, 212, 13);
+    
+}
+h2{
+    color: blue;
+    text-decoration: underline wavy green;
+}
+.main{
+    border: 5px solid red;
+    border-radius: 10px;
+    box-shadow:  5px 5px 5px 5px green;
+}
+
+.list1{
+    font-size: 50px;
+    text-align: center;
+    color: aqua;
+}
+ol{
+    display: inline;
+    text-align: center;
+    color: crimson;
+    font-size: 20px;
+}
+.out{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline yellow;
+}
